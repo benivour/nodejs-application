@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://18.212.58.167:8081/repository/tesla-Node/"
+    "registry": "http://18.212.58.167:8081/repository/tesla2-nodejs/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
